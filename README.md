@@ -52,8 +52,8 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/ikiganteng/bot-igeh.git
-	* cd bot-igeh
+	* git clone https://github.com/fftnn/allftnn
+	* cd allftnn
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
 	* npm audit fix
